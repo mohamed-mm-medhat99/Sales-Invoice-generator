@@ -1,0 +1,2 @@
+com.sales.view.invoiceDetailsDialog
+salesInvoice.view.invoiceDetailsDialog
